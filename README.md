@@ -1,0 +1,2 @@
+# QFOLW6_wechat_wyymusic
+对于QFOLW6的微信小程序的版本管理
